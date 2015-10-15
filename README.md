@@ -21,6 +21,7 @@ tournament.py
 3. Launch the Vagrant VM by runninc the commands
 	a. vagrant up
 	b. vagrant ssh
+
 =======================
  Run the Application
 =======================
