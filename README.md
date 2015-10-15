@@ -14,15 +14,17 @@ Creates the tables for the tournament and consists of:
 tournament.py
 
 
-Install Vagrant and VirtualBox
-Clone the wave_comp repository
-Launch the Vagrant VM
+1. Install Vagrant and VirtualBox
 
+2. Clone the wave_comp repository
+
+3. Launch the Vagrant VM by runninc the commands
+	a. vagrant up
+	b. vagrant ssh
 =======================
  Run the Application
 =======================
 
-1. vagrant up
-2. vagrant ssh
-3. cd /vagrant/tournament
-4. ./tournament_test.py
+
+1. cd /vagrant/tournament
+2.  ./tournament_test.py
